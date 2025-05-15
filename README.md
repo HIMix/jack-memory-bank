@@ -52,4 +52,4 @@ Setting up your Jack (Memory Bank) agent involves a few simple steps:
 
 *   [Trae.ai](https://www.trae.ai/)
 *   [Jack (Memory Bank) repo](https://github.com/HIMix/jack-memory-bank)
-*   [Tweet for Trae Hackaton](https://x.com/HIMixoidus/status/1922845058304205156)
+*   [Tweet for Trae Hackathon](https://x.com/HIMixoidus/status/1922845058304205156)
