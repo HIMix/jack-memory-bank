@@ -21,7 +21,7 @@ Setting up your Jack (Memory Bank) agent involves a few simple steps:
 1.  **Copy the Agent Prompt:**
     *   Open the `jack-agent-prompt.md` file from this repository **in a raw mode** ([link](https://raw.githubusercontent.com/HIMix/jack-memory-bank/refs/heads/master/jack-agent-prompt.md)).
     *   Copy its entire content.
-    *   In your Trae IDE, paste this content into the agent configuration/prompt section for a new or existing AI agent. ([Trae Agents Docs](https://docs.trae.ai/ide/agent))
+    *   In your Trae IDE, paste this content into the agent configuration/prompt section for a new or existing AI agent ([Trae Agents Docs](https://docs.trae.ai/ide/agent)).
     *   **Note:** Ensure the content is copied from raw version of a file and pasted correctly without any formatting changes.
 
 2.  **Copy initial `projectRules.md` (Optional):**
